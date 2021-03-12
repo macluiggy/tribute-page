@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+body {
+    width: 940px;
+    margin: 0 auto;
+    background-color: beige;
+}
+#main {
+    position: relative;
+    padding-bottom: 50px;
+}
+#img-div {
+    width: 300px;
+    margin: 10px;
+    float: left;
+}
+#image {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+h1 {
+    font-family: 'Architects Daughter';
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#tribute-link {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+    background-color: ;
+}
